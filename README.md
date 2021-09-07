@@ -20,5 +20,6 @@ Quiz application where anyone can attend a quiz and see their score card
 
  
 
-Environment / Technologies 
+# Environment / Technologies 
+
 Java, Angular 4, Spring Data, Spring Boot, Spring Framework, MySQL
