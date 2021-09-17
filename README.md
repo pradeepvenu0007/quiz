@@ -46,5 +46,5 @@ To-do list:
 
 ## License
 
-This project uses the following license: [<Pradeep K V>](https://github.com/pradeepvenu0007/quiz/edit/main/README.md).
+This project uses the following license: [Pradeep K V](https://github.com/pradeepvenu0007/quiz/edit/main/README.md).
 
