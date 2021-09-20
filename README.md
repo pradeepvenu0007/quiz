@@ -10,11 +10,25 @@ attempt any of the one. There will be limited number of questions and for each c
 
 * Java
 * Angular 4
-
 * Spring Data
 * Spring Boot
 * Spring Framework
 * MySQL
+
+## Roles / Responsibilities 
+
+My role was to design and develop a Quiz application where anyone can attend a quiz and see their scorecard.
+
+This Application implemented angular as a front end with interacts with the user.
+Implemented Spring boot as a backend by using Hibernate technology application is able to produce the required data.
+Implemented Hibernate to fetch the data and into a database that uses MySQL where the data is stored and retrieved.
+Used Angular routing to helps us navigate from one view to another as users perform tasks in web apps.
+Implemented angular templates to renders a view, or user interface, in the browser, just like regular HTML, but with a lot more functionality.
+Created Angular components as the most basic UI building block of an Angular app..
+Used JPA repositories standard way of persisting Java objects into relational databases.
+Used Spring boot annotation to mark a configuration class that declares one or more @Bean methods and also triggers auto-configuration and component scanning
+Used Dependency Injection which is a fundamental aspect of the Spring framework, through which the Spring container “injects” objects into other objects or “dependencies”.
+
 
 ## Features
 
